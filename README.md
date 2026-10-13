@@ -1,5 +1,7 @@
 # 🎬 Creator Studio AI
 
+https://amulet-dinner-lesser.ngrok-free.dev/
+
 ### Intelligent YouTube Content Generation Powered by Google Gemini
 
 Creator Studio AI is an AI-powered web application that transforms simple video ideas into engaging YouTube titles and structured video scripts. Built using Python, Streamlit, Google Gemini, LangChain, and Wikipedia research, it simplifies content creation through an intelligent and user-friendly interface.
